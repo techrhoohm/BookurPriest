@@ -1,0 +1,49 @@
+*{
+	font-family: 'Dosis', sans-serif;
+
+}
+.jumbotron{
+background-color: #7795c4;
+color: #FFFFFF;
+}
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #7795c4;
+}
+.bup{
+	height: 242px;
+	width: 200px;
+}
+#logo{
+	height: 100%;
+}
+#tn{
+	height: 200px;
+	width: 200px;
+}
+.jumbotron{
+	margin-top: 55px;
+	background: linear-gradient(to right, #337ab7 , white);
+}
+#ic{
+	float: right;
+	height: 130px;
+}
+p{
+	font-size: 18px;
+}
+.book{
+	margin:auto;
+	width: 100px;
+}
+footer{
+	margin-top: 20px;
+	padding: 5px;
+	background-color: #e3e3e3;
+	position: absolute;
+	bottom: 0;
+	width: 100%
+	}
+#footer{
+	background-color: #e3e3e3;
+}
